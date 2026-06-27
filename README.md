@@ -1,5 +1,5 @@
 # personal-finance-tracker
-I have created my first website that can be used for personal finance tracking. It uses CSS, HTML, and JavaScript to create various different functions for a complex, yet simple design that is also visually appealing.
+I have created my first website that can be used for personal finance tracking. It uses CSS, HTML, and JavaScript to create various different functions for a complex yet simple design that is also visually appealing. I created this website as a submission to Hack Club Stasis. My end goal is to hopefully earn a Flipper Zero, which I can use as a convenience factor for so many different things! So in other words, this project is created for personal use, public use, and to earn "Bits".
 
 
 https://github.com/user-attachments/assets/4013d9e0-a395-44ef-aaac-1aa8eeefc77e
